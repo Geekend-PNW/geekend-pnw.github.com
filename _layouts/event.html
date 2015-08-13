@@ -8,6 +8,25 @@ layout: default
   </header>
 
   <article class="post-content">
+    <h1>Participants:</h1>
+    <ul>
+    {% for player in site.data.players %}
+      {% if player.events contains page.event %}
+      <li>{{ player.fname }}</li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    
+    <h1>Games:</h1>
+    <ul>
+    {% for game in site.data.games %}
+      {% if game.events contains page.event %}
+      <li><strong>{{ game.name }}</strong> {% if game.gm %} -- GM: {{ game.gm }} {% endif %} {% if game.abstract %} -- <em>{{ game.abstract }}</em> {% endif %}</li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+
     {{ content }}
   </article>
 
