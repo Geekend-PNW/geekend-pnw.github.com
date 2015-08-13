@@ -1,5 +1,43 @@
-- name:
+# List of Games Played
+
+-
+  name: "A Tournament of King Torgs"
   abstract: 
-  events:
-    2014-06
-    2015-06
+  gm: "James"
+  events: 2014-06
+
+-
+  name: "Polish Incursion"
+  abstract: 
+  gm: "Robb"
+  events: 2014-06
+
+-
+  name: "Hollow Earth Campaign"
+  abstract: 
+  gm: [ "Jeff", "Mike" ]
+  events: 2014-06
+
+-
+  name: "Deadliest Catch"
+  abstract: "Maydays, gales and rescues - oh my!"
+  gm: "Jeff"
+  events: 2015-06
+
+-
+  name: "Princes of the Universe"
+  abstract: "Princes of the Universe pits Immortals against one another for the ultimate prize; the Throne of Comfort, from which the victor can influence the entire world. Ten Immortals will enter the Competition but only one can sit on the Throne. The rest will lose their heads. A Roleplaying Game event told in 3 parts loosely based on Trenchcoats and Katanas."
+  gm: "James"
+  events: 2015-06
+  
+-
+  name: "Viva la Revolucion"
+  abstract: "El Presidente is dead, and the election for his successor is imminent.  Can you scheme and plot your way into the Presidential Palace?"
+  gm: "Robb"
+  events: 2015-06
+
+-
+  name: "Haven"
+  abstract: "The planet is in peril. Will the discovery of an ancient portal usher in a new era for life on Earth, or will it spell the downfall of humanity as we know it?"
+  gm: [ "Mike", "Bill" ]
+  events: 2015-06

@@ -1,52 +1,61 @@
-# Players
+# List of Players
 -  
   fname: Anthony
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: Bill
-  lname: Wellington
+  lname: 
   bio: likes games
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: Eric
-  lname: shamwow 
-  events: [ 2014-06, 2016-06]
+  lname: 
+  bio:
+  events: [ 2014-06, 2015-06]
 
 -
   fname: James
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: Jeff
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: John
+  lname: 
   bio: 
   events: [ 2014-06]
 
 -
   fname: Larry
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: Mike
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: Robb
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
 
 -
   fname: Sage
+  lname: 
   bio: 
-  events: [ 2014-06, 2016-06]
+  events: [ 2014-06, 2015-06]
   
