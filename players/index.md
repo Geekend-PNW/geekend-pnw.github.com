@@ -14,7 +14,6 @@ permalink: /players/
   {{ player.fname }} {{ player.lname }}{% if player.bio %} -- {{ player.bio }}{% else %}{% endif %}
   
   
-  
 {% endfor %}
 
 
