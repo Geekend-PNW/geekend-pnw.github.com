@@ -2,22 +2,8 @@
 layout: event
 title: "Geekend III"
 permalink: /events/2016-06/
+event: 2016-06
 ---
 
-# Naming Rights have been sold to Anthony
+# 2015-06 - Naming Rights for Geekend III have been sold to Anthony
 
-# Participants:
-- Anthony
-- Bill
-- Eric
-- James
-- Jeff
-- Larry
-- Mike
-- Robb
-- Sage
-
-# Games:
-- ?
-- ?
-- ?
