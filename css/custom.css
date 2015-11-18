@@ -1,0 +1,20 @@
+.homepage-title
+{
+    text-align: center;
+}
+
+h1.homepage-title {
+    font-size: 600%;
+}
+
+h2.homepage-title {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 200%
+}
+
+.trigger a.page-link {
+    font-size: 120%
+}
