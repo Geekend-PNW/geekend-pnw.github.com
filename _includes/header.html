@@ -2,7 +2,11 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <!-- Detect if page is index page or not, and display site.title appropriately -->
+    {% if page.url == "/index.html" %}
+    {% else %}
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% endif %}
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
