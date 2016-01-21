@@ -6,16 +6,20 @@ permalink: /mailing-lists/
 
 Our mailing lists are hosted by Google Groups.  We currently have one list for the players in the annual Geekend events
 
-You can access the groups on the web here: 
+You can access the groups on the web here:
+
 - [Geekend-PNW Mailing List](https://groups.google.com/a/geekend-pnw.com/d/forum/geeks) 
   - [geeks@geekend-pnw.com](mailto:geeks@geekend-pnw.com)
   - This list is used for all the Geekend events.
+
 - [Terminator: Sunday's Group](https://groups.google.com/a/geekend-pnw.com/d/forum/terminator)
   - [terminator@geekend-pnw.com](mailto:terminator@geekend-pnw.com)
   - Used by the Sunday gaming group.
+
 - [Cylon: Tuesday's Group](https://groups.google.com/a/geekend-pnw.com/d/forum/cylon)
   -[cylon@geekend-pnw.com](mailto:cylon@geekend-pnw.com)
   - Used by the Tuesday gaming group
+
 - [Dalek: Wednesday's Group](https://groups.google.com/a/geekend-pnw.com/d/forum/dalek)
   - [dalek@geekend-pnw.com](mailto:dalek@geekend-pnw.com)
   - Used by the Wednesday gaming group.
