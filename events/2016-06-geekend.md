@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Geekend III"
+title: "Episode III: The Geek Awakens"
 permalink: /events/2016-06/
 event: 2016-06
 ---
