@@ -6,6 +6,7 @@ event: 2016-06
 ---
 
 # Schedule:
+
 | Date               | Room: Lucid          | Room: Sweven         | Food                 | Food Helper |
 |--------------------|----------------------|----------------------|----------------------|-------------|
 | Friday Eve         | Game of Gamement     |                      | Hamburgers & chips   | Anthony     |
