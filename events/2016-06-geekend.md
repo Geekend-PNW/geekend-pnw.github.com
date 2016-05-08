@@ -25,3 +25,4 @@ Food provided by **Lounge Larry's Meals**
 2015-06 - Naming Rights for Geekend III have been sold to Anthony
 
 2015-06 - This is a living document that will be updated as information becomes available.
+
