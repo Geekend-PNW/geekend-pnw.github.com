@@ -6,55 +6,16 @@ event: 2016-06
 ---
 
 # Schedule:
-<table>
-	<thead>
-	<tr>
-    <th></th>
-		<th>Friday</th>
-		<th>Saturday</th>
-		<th>Sunday</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<th>Breakfast</th>
-		<td> N/A </td>
-		<td> - </td>
-		<td> - </td>
-	</tr>
-	<tr>
-		<th>Morning</th>
-		<td> N/A </td>
-		<td> - </td>
-		<td> - </td>
-	</tr>
-  <tr>
-		<th>Lunch</th>
-		<td> N/A </td>
-		<td> - </td>
-		<td> - </td>
-	</tr>
-	<tr>
-		<th>Afternoon</th>
-		<td> N/A </td>
-		<td> - </td>
-		<td> N/A </td>
-	</tr>
-  <tr>
-		<th>Dinner</th>
-		<td> - </td>
-		<td> - </td>
-		<td> N/A </td>
-	</tr>
-	<tr>
-		<th>Evening</th>
-		<td> - </td>
-		<td> - </td>
-		<td> N/A </td>
-	</tr>
-	</tbody>
-</table>
-<br />
+| Date               | Room: Lucid          | Room: Sweven         | Food                 | Food Helper |
+|--------------------|----------------------|----------------------|----------------------|-------------|
+| Friday Eve         | Game of Gamement     |                      | Hamburgers & chips   | Anthony     |
+| Saturday Morning   |                      |                      | French Toast & Bacon | Michael     |
+| Saturday Afternoon | Fiasco of Fiasconess | Fiasco of Fiasconess | Stew & Biscuits      | Bill        |
+| Saturday Evening   | Roles of Rolemation  | Roles of Rolemation  | Dinner in town       | (Unneeded?) |
+| Saturday Night     | Auction (Eric)       |                      | Wild Hairs           | John        |
+| Sunday Morning     |                      |                      | Biscuits & Gravy     | James       |
+| Sunday Lunch       |                      |                      | Hot Digs & chips     | Eric        |
+
 
 # Catering:
 Food provided by **Lounge Larry's Meals**
