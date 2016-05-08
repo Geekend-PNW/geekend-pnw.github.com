@@ -43,13 +43,35 @@
   events: 2015-06
   
 -
-  name: James's Game (working title)
+  name: Roles of Rolemation (working title)
   abstract:
   gm: [ "James", "Mike" ]
   events: 2016-06
   
 -
-  name: Larry's Dungeon (working title)
+  name: The Game of Gamement (working title)
   abstract:
   gm: [ "larry", "Bill" ]
   events: 2016-06
+  
+-
+  name: A Fiasco of Fiasconess (working title)
+  abstract:
+  gm: [ "Jeff", "John" ]
+  events: 2016-06
+  
+-
+  name: "8:45 AM"
+  abstract: "A short game intended to play throughout, in pieces, using the [Parsely](http://www.commongroundhelps.org/wp-content/uploads/2012/08/Parsely_1_Action_Castle.pdf) system:
+
+    The phone rings.
+    
+    Oh, no - how long have you been asleep? Sure, it was a
+    tough night, but... This is bad. This is very bad.
+    
+    The phone rings.
+    >
+"
+  gm: [ "Michael", ]
+  events: 2016-06
+  
