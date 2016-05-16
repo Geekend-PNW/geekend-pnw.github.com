@@ -18,14 +18,14 @@ event: 2016-06
 | Sunday Lunch       |                      |                      | Hot Digs & chips     | Eric        |
 
     
-    <h1>Games:</h1>
-    <ul>
-    {% for game in site.data.games %}
-      {% if game.events contains page.event %}
-      <li><strong>{{ game.name }}</strong> {% if game.gm %} -- GM: {{ game.gm }} {% endif %} {% if game.abstract %} -- <em>{{ game.abstract }}</em> {% endif %}</li>
-      {% endif %}
-    {% endfor %}
-    </ul>
+<h1>Games:</h1>
+<ul>
+{% for game in site.data.games %}
+  {% if game.events contains page.event %}
+  <li><strong>{{ game.name }}</strong> {% if game.gm %} -- GM: {{ game.gm }} {% endif %} {% if game.abstract %} -- <em>{{ game.abstract }}</em> {% endif %}</li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 
 # Catering:
