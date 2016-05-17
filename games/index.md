@@ -12,6 +12,6 @@ permalink: /games/
 
 
 {% for game in site.data.games %}
-  - **{{ game.name }}** {% if game.gm %} -- GM: {{ game.gm }} {% endif %} {% if game.abstract %} -- *{{ game.abstract }}* {% endif %}
+  - **{{ game.name }}** {% if game.gm %} -- GM: *{{ game.gm }}* {% endif %} {% if game.abstract %} -- {{ game.abstract }} {% endif %}
 {% endfor %}
 
