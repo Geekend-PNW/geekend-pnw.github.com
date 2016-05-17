@@ -8,7 +8,7 @@ event: 2016-06
 # Schedule:
 
 | Date               | Room: Lucid          | Room: Sweven         | Food                 | Food Helper |
-|--------------------|----------------------|----------------------|----------------------|-------------|
+|:-------------------|:---------------------|:---------------------|:---------------------|:------------|
 | Friday Eve         | Game of Gamement     |                      | Hamburgers & chips   | Anthony     |
 | Saturday Morning   |                      |                      | French Toast & Bacon | Michael     |
 | Saturday Afternoon | Fiasco of Fiasconess | Fiasco of Fiasconess | Stew & Biscuits      | Bill        |
