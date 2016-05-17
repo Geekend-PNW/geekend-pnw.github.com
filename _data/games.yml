@@ -62,16 +62,16 @@
   
 -
   name: "8:45 AM"
-  abstract: "A short game intended to play throughout, in pieces, using the [Parsely](https://www.evernote.com/shard/s188/sh/0ae06b45-1cbb-4559-bd74-141e16f71cbd/8910195e3327ceb7) system:
+  abstract: | 
+    A short game intended to play throughout, in pieces, using the [Parsely](https://www.evernote.com/shard/s188/sh/0ae06b45-1cbb-4559-bd74-141e16f71cbd/8910195e3327ceb7) system:
 
-      The phone rings.
-    
-      Oh, no - how long have you been asleep? Sure, it was a
-      tough night, but... This is bad. This is very bad.
-    
-      The phone rings.
-      >
-"
+            The phone rings.
+            Oh, no - how long have you been asleep? Sure, it was a
+            tough night, but... This is bad. This is very bad.
+
+            The phone rings.
+            >
+
   gm: [ "Michael", ]
   events: 2016-06
   

@@ -6,3 +6,5 @@ event: 2015-06
 ---
 
 
+# Games:
+{% include games.md %}
