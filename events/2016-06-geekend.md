@@ -4,6 +4,8 @@ title: "Episode III: The Geek Awakens"
 permalink: /events/2016-06/
 event: 2016-06
 ---
+# Participants:
+{% include player-list.md %}
 
 # Schedule:
 
@@ -18,7 +20,7 @@ event: 2016-06
 | Sunday Lunch       |                      |                      | Hot Digs & chips     | Eric        |
 
 # Games:
-{% include games.md %}
+{% include game-list.md %}
 
 # Catering:
 Food provided by **Lounge Larry's Meals**

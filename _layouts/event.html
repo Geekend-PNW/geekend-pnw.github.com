@@ -8,17 +8,9 @@ layout: default
   </header>
 
   <article class="post-content">
-    <h1>Participants:</h1>
-    <ul>
-    {% for player in site.data.players %}
-      {% if player.events contains page.event %}
-      <li>{{ player.fname }}</li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-
 
     {{ content }}
+
   </article>
 
 </div>
