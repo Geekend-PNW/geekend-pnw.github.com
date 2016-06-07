@@ -13,8 +13,8 @@ event: 2016-06
 | Saturday Morning   | Quiet Year/Fall of Magic | Microscope           | French Toast & Bacon | Michael     |
 | Saturday Afternoon | Fiasco                   | Fiasco               | Stew & Biscuits      | Bill        |
 | Saturday Evening   | Ten Candles              |                      | Dinner in town       | --          |
-| Sunday Morning     | Auction & Clean-up       |                      | Biscuits & Gravy     | James       |
-| Sunday Lunch       | Checkout by 11:00        |                      | In Town?             | Eric        |
+| Sunday Morning     | Auction & Clean-up       |                      | Biscuits & Gravy     | Eric        |
+| Sunday Lunch       | Check out by 11:00       |                      | In Town?             | --          |
 
 # Games:
 {% include game-list.md %}
