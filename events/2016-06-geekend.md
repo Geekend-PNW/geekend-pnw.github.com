@@ -14,7 +14,7 @@ event: 2016-06
 | Friday Eve         | Game of Gamement     |                      | Hamburgers & chips   | Anthony     |
 | Saturday Morning   |                      |                      | French Toast & Bacon | Michael     |
 | Saturday Afternoon | Fiasco of Fiasconess | Fiasco of Fiasconess | Stew & Biscuits      | Bill        |
-| Saturday Evening   | Roles of Rolemation  | Roles of Rolemation  | Dinner in town       | (Unneeded?) |
+| Saturday Evening   |                      |                      | Dinner in town       | (Unneeded?) |
 | Saturday Night     | Auction (Eric)       |                      | Wild Hairs           | John        |
 | Sunday Morning     |                      |                      | Biscuits & Gravy     | James       |
 | Sunday Lunch       |                      |                      | Hot Digs & chips     | Eric        |
