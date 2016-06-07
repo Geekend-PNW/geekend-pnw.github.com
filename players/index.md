@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+## This page is curently hidden.  change layout to "page" to show this page
 title: "Players"
 permalink: /players/
 ---
