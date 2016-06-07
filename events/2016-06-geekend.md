@@ -7,15 +7,14 @@ event: 2016-06
 
 # Schedule:
 
-| Time Point         | Room: Lucid          | Room: Sweven         | Food                 | Food Helper |
-|:-------------------|:---------------------|:---------------------|:---------------------|:------------|
-| Friday Eve         | Get out of my home!  |                      | Hamburgers & chips   | Anthony     |
-| Saturday Morning   |                      |                      | French Toast & Bacon | Michael     |
-| Saturday Afternoon | Fiasco               | Fiasco               | Stew & Biscuits      | Bill        |
-| Saturday Evening   |                      |                      | Dinner in town       | (Unneeded?) |
-| Saturday Night     | Auction (Eric)       |                      | Wild Hairs           | John        |
-| Sunday Morning     |                      |                      | Biscuits & Gravy     | James       |
-| Sunday Lunch       |                      |                      | Hot Digs & chips     | Eric        |
+| Time Point         | Room: Lucid              | Room: Sweven         | Food                 | Food Helper |
+|:-------------------|:-------------------------|:---------------------|:---------------------|:------------|
+| Friday Evening     | Get out of my home!      |                      | Hamburgers & chips   | Anthony     |
+| Saturday Morning   | Quiet Year/Fall of Magic | Microscope           | French Toast & Bacon | Michael     |
+| Saturday Afternoon | Fiasco                   | Fiasco               | Stew & Biscuits      | Bill        |
+| Saturday Evening   | Ten Candles              |                      | Dinner in town       | --          |
+| Sunday Morning     | Auction & Clean-up       |                      | Biscuits & Gravy     | James       |
+| Sunday Lunch       | Checkout by 11:00        |                      | In Town?             | Eric        |
 
 # Games:
 {% include game-list.md %}
