@@ -4,8 +4,6 @@ title: "Episode III: The Geek Awakens"
 permalink: /events/2016-06/
 event: 2016-06
 ---
-# Participants:
-{% include player-list.md %}
 
 # Schedule:
 
@@ -24,6 +22,9 @@ event: 2016-06
 
 # Catering:
 Food provided by **Lounge Larry's Meals**
+
+# Participants:
+{% include player-list.md %}
 
 # Notes: 
 2015-06 - Naming Rights for Geekend III have been sold to Anthony
