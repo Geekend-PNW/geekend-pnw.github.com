@@ -9,11 +9,11 @@ event: 2016-06
 
 # Schedule:
 
-| Date               | Room: Lucid          | Room: Sweven         | Food                 | Food Helper |
+| Time Point         | Room: Lucid          | Room: Sweven         | Food                 | Food Helper |
 |:-------------------|:---------------------|:---------------------|:---------------------|:------------|
-| Friday Eve         | Game of Gamement     |                      | Hamburgers & chips   | Anthony     |
+| Friday Eve         | Get out of my home!  |                      | Hamburgers & chips   | Anthony     |
 | Saturday Morning   |                      |                      | French Toast & Bacon | Michael     |
-| Saturday Afternoon | Fiasco of Fiasconess | Fiasco of Fiasconess | Stew & Biscuits      | Bill        |
+| Saturday Afternoon | Fiasco               | Fiasco               | Stew & Biscuits      | Bill        |
 | Saturday Evening   |                      |                      | Dinner in town       | (Unneeded?) |
 | Saturday Night     | Auction (Eric)       |                      | Wild Hairs           | John        |
 | Sunday Morning     |                      |                      | Biscuits & Gravy     | James       |
