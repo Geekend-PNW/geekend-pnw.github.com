@@ -80,3 +80,8 @@
   abstract:
   gm: "James"
   events: 2016-06
+  
+  name: "Upwind: Incursion"
+  abstract:
+  gm: [ "Jeff", "John" ]
+  events: 2016-06
