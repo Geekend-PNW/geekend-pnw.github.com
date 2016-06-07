@@ -5,8 +5,8 @@ permalink: /events/2014-06/
 event: 2014-06
 ---
 
-# Participants:
-{% include player-list.md %}
-
 # Games:
 {% include game-list.md %}
+
+# Participants:
+{% include player-list.md %}
