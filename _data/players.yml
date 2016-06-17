@@ -9,7 +9,7 @@
   fname: Bill
   lname: 
   bio: likes games
-  events: [ 2014-06, 2015-06, 2016-06 ]
+  events: [ 2014-06, 2015-06 ]
 
 -
   fname: Eric
