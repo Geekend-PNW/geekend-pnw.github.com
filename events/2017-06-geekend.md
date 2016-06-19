@@ -9,6 +9,9 @@ event: 2017-06
 
 | Time Point         | Room: | Room: | Food | Food Helper |
 |:-------------------|:------|:------|:-----|:------------|
+| Thursday Evening   |       |       |      |             |
+| Friday Morning     |       |       |      |             |
+| Friday Afternoon   |       |       |      |             |
 | Friday Evening     |       |       |      |             |
 | Saturday Morning   |       |       |      |             |
 | Saturday Afternoon |       |       |      |             |
