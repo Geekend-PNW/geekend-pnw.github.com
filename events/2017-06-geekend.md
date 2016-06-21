@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Geekend IV: "
+title: "Geekend IIII: "
 permalink: /events/2017-06/
 event: 2017-06
 ---
