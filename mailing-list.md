@@ -4,7 +4,7 @@ title: "Mailing Lists"
 permalink: /mailing-lists/
 ---
 
-Our mailing lists are hosted by Google Groups.  We currently have one list for the players in the annual Geekend events
+Our mailing lists are hosted by Google Groups.  We have one list for the players in the annual Geekend events, and lists for each of the groups that meet regularly to game.
 
 You can access the groups on the web here:
 
