@@ -18,9 +18,10 @@
       </a>
 
       <div class="trigger">
+        {% assign current-url = page.url %}
         {% for page in site.pages %}
           {% if page.title and page.layout == "page" %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="page-link{% if page.url == current-url %} active-link{% endif %}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>

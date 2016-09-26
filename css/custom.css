@@ -22,3 +22,8 @@ h2 {
 tbody tr:nth-child(odd) { background: #ccc; }
 
 table { margin-bottom: 5%;}
+
+.page-link.active-link {
+    color: #999;
+    text-decoration: none;
+}
