@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Geekend IIII: "
+title: "Geekend IIII: The Fourth Dimension is Geek"
 permalink: /events/2017-06/
 event: 2017-06
 ---
