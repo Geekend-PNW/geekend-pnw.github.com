@@ -81,7 +81,20 @@
   gm: "James"
   events: 2016-06
   
+-
   name: "Upwind: Incursion"
   abstract:
   gm: [ "Jeff", "John" ]
   events: 2016-06
+  
+-
+  name: "Jeff's Maritime Adventures"
+  abstract:
+  gm: [ "Jeff", ]
+  events: 2017-07
+  
+-
+  name: "Gygaxian Hellscape"
+  abstract:
+  gm: [ "John" ]
+  events: 2017-07
