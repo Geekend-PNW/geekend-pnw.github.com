@@ -5,7 +5,7 @@ permalink: /events/2017-07/
 event: 2017-07
 redirect_from: [ /events/2017-06/ ]
 ---
-# Date: 2017-07-13 through 7/16
+# Date: 2017-07-13 through 7-16
 
 # Schedule:
 
