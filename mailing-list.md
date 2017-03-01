@@ -20,9 +20,10 @@ You can access the groups on the web here:
   - [cylon@geekend-pnw.com](mailto:cylon@geekend-pnw.com)
   - Used by the 2nd and 4th Wednesday gaming group
 
-- [Terminator:](https://groups.google.com/a/geekend-pnw.com/d/forum/terminator)
-  - [terminator@geekend-pnw.com](mailto:terminator@geekend-pnw.com)
-  - Used by the Sunday gaming group.
+- ~[Terminator:](https://groups.google.com/a/geekend-pnw.com/d/forum/terminator)~
+  - ~[terminator@geekend-pnw.com](mailto:terminator@geekend-pnw.com)~
+  - ~Used by the Sunday gaming group.~
+  - This list has been suspended due to group consolidation
 
 **Remember**, you can only post to the mailing lists from the email address that you have registered with each list.  If you try posting with another address, you should receive a bounce message.
 
