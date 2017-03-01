@@ -1,8 +1,9 @@
 ---
 layout: event
 title: "Geekend ⚃: The Fourth Dimension is Geek"
-permalink: /events/2017-06/
-event: 2017-06
+permalink: /events/2017-07/
+event: 2017-07
+redirect_from: [ /events/2017-06/ ]
 ---
 # Date: unknown
 
