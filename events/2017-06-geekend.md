@@ -27,7 +27,7 @@ redirect_from: [ /events/2017-06/ ]
 # Catering:
 
 # Auction:
-- Auction services provided by Weird Beard's Auction Madness
+- Auction services provided by **Weird Beard's Auction Madhouse.**
 
 # Participants: (so far...)
 {% include player-list.md %}
