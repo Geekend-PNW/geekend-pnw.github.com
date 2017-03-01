@@ -9,13 +9,13 @@
   fname: Bill
   lname: 
   bio: likes games
-  events: [ 2014-06, 2015-06 ]
+  events: [ 2014-06, 2015-06, 2017-07 ]
 
 -
   fname: Eric
   lname: 
   bio:
-  events: [ 2014-06, 2015-06, 2016-06 ]
+  events: [ 2014-06, 2015-06, 2016-06, 2017-07 ]
 
 -
   fname: James
@@ -27,13 +27,13 @@
   fname: Jeff
   lname: 
   bio: 
-  events: [ 2014-06, 2015-06, 2016-06 ]
+  events: [ 2014-06, 2015-06, 2016-06, 2017-07 ]
 
 -
   fname: John
   lname: 
   bio: 
-  events: [ 2014-06, 2016-06 ]
+  events: [ 2014-06, 2016-06, 2017-07 ]
 
 -
   fname: Larry
@@ -45,13 +45,13 @@
   fname: Mike
   lname: 
   bio: 
-  events: [ 2014-06, 2015-06, 2016-06 ]
+  events: [ 2014-06, 2015-06, 2016-06, 2017-07 ]
 
 -
   fname: Robb
   lname: 
   bio: 
-  events: [ 2014-06, 2015-06 ]
+  events: [ 2014-06, 2015-06, 2017-07 ]
 
 -
   fname: Sage
