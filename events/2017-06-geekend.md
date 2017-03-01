@@ -5,7 +5,7 @@ permalink: /events/2017-07/
 event: 2017-07
 redirect_from: [ /events/2017-06/ ]
 ---
-# Date: unknown
+# Date: 2017-07-13 through 7/16
 
 # Schedule:
 
@@ -26,8 +26,10 @@ redirect_from: [ /events/2017-06/ ]
 
 # Catering:
 
+# Auction:
+- Auction services provided by Weird Beard's Auction Madness
 
-# Participants:
+# Participants: (so far...)
 {% include player-list.md %}
 
 # Notes: 
