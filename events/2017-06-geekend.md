@@ -9,17 +9,19 @@ redirect_from: [ /events/2017-06/ ]
 
 # Schedule:
 
-| Time Point         | Room: | Room: | Food | Food Helper |
-|:-------------------|:------|:------|:-----|:------------|
-| Thursday Evening   |       |       |      |     Eric    |
-| Friday Morning     |       |       |      |     Anthony |
-| Friday Afternoon   | Something indy like Alas the Awful Sea or The Driftwood Verse<br>**(GM: Jeff)**  |       |      |    Michael  |
-| Friday Evening     | &lt;Player Name&gt; and the Chocolate Factory<br>**(GM: Michael)**               |       |      |    Larry    |
-| Saturday Morning   | Gygaxian Hellscape<br>**(GM: John)**                                             |       |      |    Jeff     |
-| Saturday Afternoon | Greetings, Comrade Stalin<br>**(GM: Robb)**                                      |       |      |    Bill     |
-| Saturday Evening   | Motherload<br>**(GM: James)**                                                    | Motherload<br>**(GM: Michael)** |      |    John     |
-| Sunday Morning     |       |       |      |     James   |
-| Sunday Lunch       |       |       |      |             |
+
+| Time Point         | Game:                                           | GM:     | Food                      | Food Helper |
+|:-------------------|:------------------------------------------------|:--------|:--------------------------|:------------|
+| Thursday Evening   |                                                 |         | Cracker Barrel            |     Eric    |
+| Friday Morning     |                                                 |         | Pancakes, eggs, bacon     |     Anthony |
+| Friday Afternoon   | *&lt;Player Name&gt; and the Chocolate Factory* | Michael | Brats                     |    Ezra     |
+| Friday Evening     | *Gygaxian Hellscape*                            | John    | Steak potato nachos       |    Michael  |
+| Friday Night       | *Motherloading*                                 | James   |                           |             |
+| Saturday Morning   | *Ezra's Surprise*                               | Ezra    | Pancakes, eggs, bacon     |   Jeff      |
+| Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb    | Sandwiches                |    Bill     |
+| Saturday Evening   | *Motherload*                                    | James   | Pork chops & potatoes     |    John     |
+| Sunday Morning     |                                                 |         |  Cold cereal              |     James   |
+| Sunday Lunch       |                                                 |         |  Out, en route            |             |
 
 # Games:
 {% include game-list.md %}
