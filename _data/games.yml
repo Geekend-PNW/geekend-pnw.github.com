@@ -41,13 +41,7 @@
   abstract: "The planet is in peril. Will the discovery of an ancient portal usher in a new era for life on Earth, or will it spell the downfall of humanity as we know it?"
   gm: [ "Mike", "Bill" ]
   events: 2015-06
-  
--
-  name: "Motherload"
-  abstract: "In a distant galaxy a salvage spaceship finds the prize of a lifetime. Now they just need to survive long enough to bring it back home."
-  gm: [ "James" ]
-  events: 2017-07
-  
+    
 -
   name: "Get out of my home! (working title)"
   abstract: "Classic Reverse Dungeon"
@@ -86,7 +80,13 @@
   abstract:
   gm: [ "Jeff", "John" ]
   events: 2016-06
-  
+
+-
+  name: "Motherload"
+  abstract: "In a distant galaxy a salvage spaceship finds the prize of a lifetime. Now they just need to survive long enough to bring it back home."
+  gm: [ "James" ]
+  events: 2017-07
+    
 -
   name: "Mordekaiser"
   abstract: "Murder with a side sausage"
