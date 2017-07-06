@@ -9,8 +9,7 @@ redirect_from: [ /events/2017-06/ ]
 
 # Schedule:
 
-
-| Time Point         | Game:                                           | GM:     | Food                      | Food Helper |
+| Time Point         | Game                                            | GM      | Food                      | Food Helper |
 |:-------------------|:------------------------------------------------|:--------|:--------------------------|:------------|
 | Thursday Evening   |                                                 |         | Cracker Barrel            | Bill        |
 | Friday Morning     |                                                 |         | Pancakes, eggs, bacon     | Anthony     |
@@ -20,8 +19,8 @@ redirect_from: [ /events/2017-06/ ]
 | Saturday Morning   | *Mordekaiser*                                   | Ezra    | Pancakes, eggs, bacon     | Jeff        |
 | Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb    | Sandwiches                | Eric        |
 | Saturday Evening   | *Motherload*                                    | James   | Pork chops & potatoes     | John        |
-| Sunday Morning     |                                                 |         |  Cold cereal              | James       |
-| Sunday Lunch       |                                                 |         |  Out, en route            |             |
+| Sunday Morning     |                                                 |         | Cold cereal               | James       |
+| Sunday Lunch       |                                                 |         | Out, en route             |             |
 
 # Games:
 {% include game-list.md %}
