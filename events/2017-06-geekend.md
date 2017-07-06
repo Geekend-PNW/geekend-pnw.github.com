@@ -17,7 +17,7 @@ redirect_from: [ /events/2017-06/ ]
 | Friday Afternoon   | *&lt;Player Name&gt; and the Chocolate Factory* | Michael | Brats                     |    Ezra     |
 | Friday Evening     | *Gygaxian Hellscape*                            | John    | Steak potato nachos       |    Michael  |
 | Friday Night       | *Motherloading*                                 | James   |                           |             |
-| Saturday Morning   | *Ezra's Surprise*                               | Ezra    | Pancakes, eggs, bacon     |   Jeff      |
+| Saturday Morning   | *Mordekaiser*                                   | Ezra    | Pancakes, eggs, bacon     |   Jeff      |
 | Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb    | Sandwiches                |    Bill     |
 | Saturday Evening   | *Motherload*                                    | James   | Pork chops & potatoes     |    John     |
 | Sunday Morning     |                                                 |         |  Cold cereal              |     James   |
