@@ -29,6 +29,11 @@ redirect_from: [ /events/2017-06/ ]
 # Auction:
 - Auction services provided by **Weird Beard's Auction Madhouse.**
 
+# Transportation:
+Bill will be at Jeff's house by 10 AM on Thursday the 13th, for loading the truck.  Heading North by 11 AM to pick up Michael.  There are two extra seats for anybody who wants to go to North Bend via Seattle.
+
+Eric has offered return service for Tacoma folk.
+
 # Participants: (so far...)
 {% include player-list.md %}
 
