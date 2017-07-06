@@ -14,7 +14,7 @@ redirect_from: [ /events/2017-06/ ]
 | Thursday Evening   |                                                 |         | Cracker Barrel            | Bill        |
 | Friday Morning     |                                                 |         | Pancakes, eggs, bacon     | Anthony     |
 | Friday Afternoon   | *&lt;Player Name&gt; and the Chocolate Factory* | Michael | Brats                     | Ezra        |
-| Friday Evening     | *Gygaxian Hellscape*                            | John    | Steak potato nachos       | Michael     |
+| Friday Evening     | *...something else instead.*                        | John    | Steak potato nachos       | Michael     |
 | Friday Night       | *Motherloading*                                 | James   |                           |             |
 | Saturday Morning   | *Mordekaiser*                                   | Ezra    | Pancakes, eggs, bacon     | Jeff        |
 | Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb    | Sandwiches                | Eric        |
