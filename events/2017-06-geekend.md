@@ -25,7 +25,7 @@ redirect_from: [ /events/2017-06/ ]
 {% include game-list.md %}
 
 # Catering:
-- Food provided by **Rapid Robb's Really Really Really Good Eats**
+- Food provided by **Rapid Robb's Really Really Really Good Eats.**
 
 # Auction:
 - Auction services provided by **Weird Beard's Auction Madhouse.**
