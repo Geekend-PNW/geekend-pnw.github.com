@@ -9,18 +9,18 @@ redirect_from: [ /events/2017-06/ ]
 
 # Schedule:
 
-| Time Point         | Game                                            | GM      | Food                      | Food Helper |
-|:-------------------|:------------------------------------------------|:--------|:--------------------------|:------------|
-| Thursday Evening   |                                                 |         | Cracker Barrel            | Bill        |
-| Friday Morning     |                                                 |         | Pancakes, eggs, bacon     | Anthony     |
-| Friday Afternoon   | *&lt;Player Name&gt; and the Chocolate Factory* | Michael | Brats                     | Ezra        |
-| Friday Evening     | *...something else instead.*                        | John    | Steak potato nachos       | Michael     |
-| Friday Night       | *Motherloading*                                 | James   |                           |             |
-| Saturday Morning   | *Mordekaiser*                                   | Ezra    | Pancakes, eggs, bacon     | Jeff        |
-| Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb    | Sandwiches                | Eric        |
-| Saturday Evening   | *Motherload*                                    | James   | Pork chops & potatoes OR<br /> Vietnamese pork tenderloin?    | John        |
-| Sunday Morning     |                                                 |         | Cold cereal               | James       |
-| Sunday Lunch       |                                                 |         | Out, en route             |             |
+| Time Point         | Game                                            | GM         | Food                                                          | Food Helper |
+|:-------------------|:------------------------------------------------|:-----------|:--------------------------------------------------------------|:------------|
+| Thursday Evening   |                                                 |            | Cracker Barrel                                                | Bill        |
+| Friday Morning     | *Fiasco* / *Upwind: The Con Edition*            | N/A / Jeff | Pancakes, eggs, bacon                                         | Anthony     |
+| Friday Afternoon   | *&lt;Player Name&gt; and the Chocolate Factory* | Michael    | Brats                                                         | Ezra        |
+| Friday Evening     | *...something else instead.*                    | John       | Steak potato nachos                                           | Michael     |
+| Friday Night       | *Motherloading*                                 | James      |                                                               |             |
+| Saturday Morning   | *Mordekaiser*                                   | Ezra       | Pancakes, eggs, bacon                                         | Jeff        |
+| Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb       | Sandwiches                                                    | Eric        |
+| Saturday Evening   | *Motherload*                                    | James      | Pork chops & potatoes OR<br /> Vietnamese pork tenderloin?    | John        |
+| Sunday Morning     |                                                 |            | Cold cereal                                                   | James       |
+| Sunday Lunch       |                                                 |            | Out, en route                                                 |             |
 
 # Games:
 {% include game-list.md %}
