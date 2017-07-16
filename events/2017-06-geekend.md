@@ -12,14 +12,14 @@ redirect_from: [ /events/2017-06/ ]
 | Time Point         | Game                                            | GM         | Food                                                          | Food Helper |
 |:-------------------|:------------------------------------------------|:-----------|:--------------------------------------------------------------|:------------|
 | Thursday Evening   |                                                 |            | Cracker Barrel                                                | Bill        |
-| Friday Morning     | *Motherloading*                                 | N/A / Jeff | Pancakes, eggs, bacon                                         | Anthony     |
+| Friday Morning     | *Motherloading*                                 | James      | Pancakes, eggs, bacon                                         | Anthony     |
 | Friday Afternoon   | *&lt;Player Name&gt; and the Chocolate Factory* | Michael    | Brats                                                         | Ezra        |
-| Friday Evening     | *...something else instead.*                    | John       | Steak potato nachos                                           | Michael     |
-| Friday Night       | *Fiasco* / *Upwind: The Con Edition*            | James      |                                                               |             |
+| Friday Evening     | *Greetings, Comrade Stalin*                     | RObb       | Vietnamese pork tenderloin                                    | Michael     |
+| Friday Night       | *board games*                                   |            |                                                               |             |
 | Saturday Morning   | *Mordekaiser*                                   | Ezra       | Pancakes, eggs, bacon                                         | Jeff        |
-| Saturday Afternoon | *Greetings, Comrade Stalin*                     | Robb       | Sandwiches                                                    | Eric        |
-| Saturday Evening   | *Motherload*                                    | James      | Pork chops & potatoes OR<br /> Vietnamese pork tenderloin?    | John        |
-| Sunday Morning     |                                                 |            | Cold cereal                                                   | James       |
+| Saturday Afternoon | *board games*                                   | Robb       | Sandwiches                                                    | Eric        |
+| Saturday Evening   | *Motherload*                                    | James      | Steak potato nachos                                           |             |
+| Sunday Morning     | *Captain Sonar*                                 |            | Cold cereal                                                   | James       |
 | Sunday Lunch       |                                                 |            | Out, en route                                                 |             |
 
 # Games:
@@ -36,7 +36,7 @@ Bill will be at Jeff's house by 10 AM on Thursday the 13th, for loading the truc
 
 Eric has offered return service for Tacoma folk.
 
-# Participants: (so far...)
+# Participants:
 {% include player-list.md %}
 
 # Notes: 

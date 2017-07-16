@@ -39,7 +39,7 @@
   fname: John
   lname: 
   bio: 
-  events: [ 2014-06, 2016-06, 2017-07 ]
+  events: [ 2014-06, 2016-06 ]
 
 -
   fname: Larry
