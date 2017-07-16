@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Geekend V"
+title: "Geekend V (working title)"
 permalink: /events/2018-06/
 event: 2018-06
 # redirect_from: [ /events/2018-06/ ]
@@ -34,8 +34,10 @@ event: 2018-06
 # Participants: (so far...)
 {% include player-list.md %}
 
-# Naming Rights: Anthony
+# Naming Rights:
+- Anthony
 
-# Hacked the Mint: Anthony
+# Hacked the Mint:
+- Anthony
 
 # Notes: 
