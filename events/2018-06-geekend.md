@@ -8,19 +8,7 @@ event: 2018-06
 # Date: undecided
 
 # Schedule:
-
-| Time Point         | Game                                            | GM         | Food                                      | Food Helper |
-|:-------------------|:------------------------------------------------|:-----------|:------------------------------------------|:------------|
-| Thursday Evening   |                                                 |            |                                           |             |
-| Friday Morning     |                                                 |            |                                           |             |
-| Friday Afternoon   |                                                 |            |                                           |             |
-| Friday Evening     |                                                 |            |                                           |             |
-| Saturday Morning   |                                                 |            |                                           |             |
-| Saturday Afternoon |                                                 |            |                                           |             |
-| Saturday Evening   |                                                 |            |                                           |             |
-| Sunday Morning     |                                                 |            |                                           |             |
-| Sunday Noon        |                                                 |            |                                           |             |
-
+{% include schedule.md %}
 
 # Games:
 {% include game-list.md %}
