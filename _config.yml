@@ -17,4 +17,4 @@ gems:
 whitelist:
   - jekyll-redirect-from
 
-exclude: ['CNAME', 'Gemfile', 'Gemfile.lock']
+exclude: ['README', 'CNAME', 'Gemfile', 'Gemfile.lock']
