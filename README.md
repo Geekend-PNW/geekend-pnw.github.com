@@ -16,9 +16,7 @@ To create a new event, create a new file with the name `<year>-<month>-<event na
 
 ```
 ---
-layout: event
 title: "<EVENT TITLE>"
-permalink: /events/event_id/
 event_id: <year>-<month>
 ---
 ```
