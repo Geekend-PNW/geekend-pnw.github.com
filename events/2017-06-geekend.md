@@ -2,7 +2,7 @@
 layout: event
 title: "Geekend ⚃: The Fourth Dimension is Geek"
 permalink: /events/2017-07/
-event: 2017-07
+event_id: 2017-07
 redirect_from: [ /events/2017-06/ ]
 ---
 # Date: 2017-07-13 through 2017-07-16

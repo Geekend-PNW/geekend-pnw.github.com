@@ -2,7 +2,7 @@
 layout: event
 title: "Episode III: The Geek Awakens"
 permalink: /events/2016-06/
-event: 2016-06
+event_id: 2016-06
 ---
 # Date: June 17, 18, 19 2016
 
