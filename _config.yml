@@ -18,3 +18,18 @@ whitelist:
   - jekyll-redirect-from
 
 exclude: ['README', 'CNAME', 'Gemfile', 'Gemfile.lock']
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
+    defaults:
+      values:
+        layout: event
+        
+defaults:
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
