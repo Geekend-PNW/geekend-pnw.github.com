@@ -111,8 +111,10 @@
   gm: [ "John" ]
   events: 2018-06
   
-  -
+-
   name: "Princes of the Universe 2"
-  abstract: ""
+  abstract: 
   gm: "James"
   events: 2018-06
+  
+  
