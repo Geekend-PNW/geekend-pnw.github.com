@@ -23,6 +23,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  things:
+    output: true
+    permalink: /:collection/:path/
         
 defaults:
   - scope:
@@ -36,3 +39,8 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "things"
+    values:
+      layout: "thing"
