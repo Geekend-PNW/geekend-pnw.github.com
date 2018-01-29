@@ -29,7 +29,7 @@
   abstract: "Princes of the Universe pits Immortals against one another for the ultimate prize; the Throne of Comfort, from which the victor can influence the entire world. Ten Immortals will enter the Competition but only one can sit on the Throne. The rest will lose their heads. A Roleplaying Game event told in 3 parts loosely based on Trenchcoats and Katanas."
   gm: "James"
   events: 2015-06
-  
+
 -
   name: "Viva la Revolucion"
   abstract: "El Presidente is dead, and the election for his successor is imminent.  Can you scheme and plot your way into the Presidential Palace?"
@@ -41,22 +41,22 @@
   abstract: "The planet is in peril. Will the discovery of an ancient portal usher in a new era for life on Earth, or will it spell the downfall of humanity as we know it?"
   gm: [ "Mike", "Bill" ]
   events: 2015-06
-    
+
 -
   name: "Get out of my home! (working title)"
   abstract: "Classic Reverse Dungeon"
   gm: [ "Larry", "Anthony" ]
   events: 2016-06
-  
+
 -
   name: "The Murderists"
   abstract:
   gm: [ "Jeff", "John" ]
   events: 2016-06
-  
+
 -
   name: "8:45 AM"
-  abstract: | 
+  abstract: |
     A short game intended to play throughout, in pieces, using the [Parsely](https://www.evernote.com/shard/s188/sh/0ae06b45-1cbb-4559-bd74-141e16f71cbd/8910195e3327ceb7) system:
 
             The phone rings.
@@ -68,13 +68,13 @@
 
   gm: [ "Michael" ]
   events: 2016-06
-  
+
 -
   name: "Ten Candles (working title)"
   abstract:
   gm: "James"
   events: 2016-06
-  
+
 -
   name: "Upwind: Incursion"
   abstract:
@@ -86,13 +86,13 @@
   abstract: "In a distant galaxy a salvage spaceship finds the prize of a lifetime. Now they just need to survive long enough to bring it back home."
   gm: [ "James" ]
   events: 2017-07
-    
+
 -
   name: "Mordekaiser"
   abstract: "Murder with a side sausage"
   gm: [ "Ezra" ]
   events: 2017-07
-  
+
 -
   name: "Greetings, Comrade Stalin"
   abstract: "Magnitogorsk, 1936. Comrade Stalin is coming for a visit. Can you present him with a functional 5 year plan?"
@@ -104,27 +104,26 @@
   abstract: "Everyone knows that Charlie Bucket took over the factory after Wonka’s golden tour. He, like Wonka, started out very open and excited and allowed people in to, but followed a similar path as Wonka, years later descending into seclusion and is now only rarely seen, even then just through glances through the closed gates of the factory. <br>Now, a generation after the famed tour Charlie is doing another prize. A handful of golden tickets is out there for a famed tour. Will Bucket, like Wonka, be looking for retirement?"
   gm: [ "Michael" ]
   events: 2017-07
-  
+
 -
   name: "Gygaxian Hellscape"
   abstract:
   gm: [ "John" ]
-  events: 2018-06
-  
+  events: 2018-07
+
 -
   name: "Princes of the Universe 2"
-  abstract: 
+  abstract:
   gm: "James"
-  events: 2018-06
-  
+  events: 2018-07
+
 -
     name: "t's a Mad Mad Mad Mad Q"
     abstract: |
-    
+
       (subtitle: "Wreckless* abuse of the Q ruleset")
-      
+
       (second subtitle: "Forgive me, Jeff, for what I am about to do")
-      
+
     gm: Michael
-    events: 2018-06
-  
+    events: 2018-07
