@@ -9,6 +9,6 @@ gem 'github-pages', versions['github-pages']
 gem 'jekyll'
 gem 'sass'
 gem 'jekyll-sass-converter'
-gem 'nokogiri', '1.6.7'
+gem 'nokogiri', '~> 1.8.1'
 gem 'jekyll-gist'
 gem 'jekyll-redirect-from'
