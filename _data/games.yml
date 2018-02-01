@@ -123,7 +123,11 @@
 
   gm: Michael
   events: 2018-07
-
+-
+  name: "The Deplorable World"
+  abstract: 
+  gm: [ "Robb" ]
+  events: 2018-07
 -
   name: "Gygaxian Hellscape"
   abstract:
