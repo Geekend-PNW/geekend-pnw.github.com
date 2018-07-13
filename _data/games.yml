@@ -128,6 +128,25 @@
   abstract: 
   gm: [ "Robb" ]
   events: 2018-07
+
+-
+  name: "Clink"
+  abstract: 
+  gm: [ "Jeff" ]
+  events: 2018-07
+
+-
+  name: "Magic The Gathering"
+  abstract: 
+  gm: [ "Sage" ]
+  events: 2018-07
+
+-
+  name: "Into the Barderlands"
+  abstract: 
+  gm: [ "Robb" ]
+  events: 2018-07
+  
 -
   name: "Gygaxian Hellscape"
   abstract:
