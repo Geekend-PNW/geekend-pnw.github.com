@@ -19,7 +19,7 @@
 
 -
   fname: Ezra
-  lname:
+  lname: Davis
   bio:
   events: [ 2017-07, 2018-07 ]
 
@@ -37,9 +37,9 @@
 
 -
   fname: John
-  lname:
+  lname: Hay
   bio:
-  events: [ 2014-06, 2016-06 ]
+  events: [ 2014-06, 2016-06, 2018-07 ]
 
 -
   fname: Larry
