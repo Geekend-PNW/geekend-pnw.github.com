@@ -13,19 +13,17 @@ You can access the groups on the web here:
   - [geeks@geekend-pnw.com](mailto:geeks@geekend-pnw.com)
 
 
-- [Dalek:](https://groups.google.com/a/geekend-pnw.com/d/forum/dalek) (Used by the 1st and 3rd Wednesday (soon to be Thursday) gaming group.)
+- [Dalek:](https://groups.google.com/a/geekend-pnw.com/d/forum/dalek) (Used by the 1st and 3rd Thursday (soon to be Thursday) gaming group.)
   - [dalek@geekend-pnw.com](mailto:dalek@geekend-pnw.com)
     - masks@geekend-pnw.com
     - vanguard@geekend-pnw.com
-    - wednesday@geekend-pnw.com
-    - thursday@geekend-pnw.com
     - gaming@geekend-pnw.com
 
 
-- [Cylon:](https://groups.google.com/a/geekend-pnw.com/d/forum/cylon) (Used by the 2nd and 4th Wednesday gaming group)
+- [Cylon:](https://groups.google.com/a/geekend-pnw.com/d/forum/cylon) (Used by the 2nd and 4th Thursday gaming group)
   - [cylon@geekend-pnw.com](mailto:cylon@geekend-pnw.com)
+    - stormsurge@geekend-pnw.com
     - redmarkets@geekend-pnw.com
-    - alt-wednesday@geekend-pnw.com
 
 
 **Remember**, you can only post to the mailing lists from the email address that you have registered with each list.  If you try posting with another address, you should receive a bounce message.
