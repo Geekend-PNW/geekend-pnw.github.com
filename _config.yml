@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   A group of RPG gamers in the Pacific Northwest.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.geekend-pnw.com" # the base hostname & protocol for your site
+url: "https://www.geekend-pnw.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -13,7 +13,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-redirect-from
-  
+
 whitelist:
   - jekyll-redirect-from
 
@@ -26,14 +26,14 @@ collections:
   things:
     output: true
     permalink: /:collection/:path/
-        
+
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-      permalink: 
+      permalink:
   - scope:
       path: ""
       type: "events"
