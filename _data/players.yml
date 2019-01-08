@@ -9,7 +9,7 @@
   fname: Bill
   lname: Wellington
   bio: likes games
-  events: [ 2014-06, 2015-06, 2016-06, 2017-07, 2018-07. 2019-06 ]
+  events: [ 2014-06, 2015-06, 2016-06, 2017-07, 2018-07, 2019-06 ]
 
 -
   fname: Eric
