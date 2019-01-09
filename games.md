@@ -13,6 +13,8 @@ A selection of games we have enjoyed at our events:
 
 {% assign sorted_games = site.data.games | sort: 'name' %}
 {% for game in sorted_games %}
-  - **{{ game.name }}** {% if game.gm %} -- GM: *{{ game.gm | join: ', ' }}* {% endif %} {% if game.abstract %} -- {{ game.abstract }} {% endif %}
+  - **{{ game.name }}** {% if game.gm %} -- GM: *{{ game.gm | join: ', ' }}* {% endif %} {% if game.abstract %}
+  >{{ game.abstract }}
+{% endif %}
 {% endfor %}
 

@@ -113,40 +113,39 @@
 
 -
   name: "It's a Mad, Mad, Mad, Mad (Lib) Q"
-  abstract: |
-
+  abstract: '
     (subtitle: "Wreckless* abuse of the Q ruleset")
 
     (second subtitle: "Forgive me, Jeff, for what I am about to do")
-    
-    (footnote: *sic)
+
+    (footnote: *sic)'
 
   gm: Michael
   events: 2018-07
 -
   name: "The Deplorable Word"
-  abstract: 
+  abstract:
   gm: [ "Robb" ]
   events: 2018-07
 
 -
   name: "Clink"
-  abstract: 
+  abstract:
   gm: [ "Jeff" ]
   events: 2018-07
 
 -
   name: "Magic The Gathering"
-  abstract: 
+  abstract:
   gm: [ "Sage" ]
   events: 2018-07
 
 -
   name: "Into the Barderlands"
-  abstract: 
+  abstract:
   gm: [ "Robb" ]
   events: 2018-07
-  
+
 -
   name: "Gygaxian Hellscape"
   abstract:
