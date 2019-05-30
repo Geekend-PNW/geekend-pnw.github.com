@@ -163,3 +163,18 @@
   abstract: "Details closer to the event."
   gm: [ "Michael" ]
   events: 2019-06
+-
+  name: "Jeffrey's Jingle Jangle"
+  abstract: "Details closer to the event."
+  gm: [ "Jeff" ]
+  events: 2019-06
+-
+  name: "Festival of New Coupling"
+  abstract: "A R.O.B.B.L.A.R.P style game designed by Eric."
+  gm: [ "James" ]
+  events: 2019-06
+-
+  name: "Scum and Villany"
+  abstract: "An all female heist game"
+  gm: [ "james" ]
+  events: 2019-06
