@@ -23,6 +23,12 @@ tbody tr:nth-child(odd) { background: #ccc; }
 
 table { margin-bottom: 5%;}
 
+.cell {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
 .page-link.active-link {
     color: #999;
     text-decoration: none;

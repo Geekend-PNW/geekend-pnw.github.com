@@ -14,14 +14,14 @@
 <table>
   <tr>
     {% for cell in header %}
-      <th> {{ cell[0] }} </th>
+      <th class="cell"> {{ cell[0] }} </th>
     {% endfor %}
   </tr>
 
   {% for row in rows %}
     <tr>
       {% for cell in row %}
-        <td> {{ cell[1] }} </td>
+        <td class="cell"> {{ cell[1] }} </td>
       {% endfor %}
     </tr>
   {% endfor %}
