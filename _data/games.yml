@@ -178,3 +178,8 @@
   abstract: "An all female heist game"
   gm: [ "James" ]
   events: 2019-06
+-
+  name: "John's Thingie Dingy"
+  abstract: "Details closer to the event."
+  gm: [ "Jeff" ]
+  events: 2019-06
