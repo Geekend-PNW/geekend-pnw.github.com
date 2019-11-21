@@ -193,7 +193,7 @@
   name: "Bad Girls: The Movie (with soundtrack by M.I.A.)"
   abstract: |
   
-    <p><img src="/miabadgirls.png" alt="M.I.A. Bad Girls" width="200" height="300" align="middle">
+    <p><img src="/miabadgirls.png" alt="M.I.A. Bad Girls" width="200" height="300" align="middle" class="float-left">
     &#127925; Live fast, die young<br>
     &#127925; Bad girls do it well<br>
     &#127925; Live fast, die young<br>
@@ -211,6 +211,7 @@
     <p>Certainly can’t argue with that, George. I haven’t seen a full card yet, but the venue... wow! Picking an ice rink is an inspired choice. Hope you fans bundle up when you show.</p>    
     <p>They won’t need to bundle up! It may be an ice rink, but that ring’s gonna be on Fire! Did you see the top fight of the night! Replacing the classic cage match with a literal cage of ice blocks?  That’s a monster of an event!</p>
     <p>You’ve got that right. There you have it fans, the premier event of the new GWF season, coming to you live and on pay-per-view, 26 June 2020. You can take that one to the mat!</p>
+    
   gm: [ "John" ]
   events: 2020-06
   

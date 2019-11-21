@@ -33,3 +33,10 @@ table { margin-bottom: 5%;}
     color: #999;
     text-decoration: none;
 }
+
+.float-left
+{
+    clear: right;
+    display: inline;
+    float: left;
+}
