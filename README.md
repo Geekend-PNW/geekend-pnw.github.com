@@ -25,7 +25,7 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-**Stack:** Ruby 3.3 (via nixpkgs), github-pages 232, Jekyll 3.10.0.
+**Stack:** Ruby 3.3.10 (via nixpkgs; see `.ruby-version`), github-pages 232, Jekyll 3.10.0.
 
 ## Editing pages
 
