@@ -28,6 +28,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  games:
+    output: true
+    permalink: /:collection/:path/
   things:
     output: true
     permalink: /:collection/:path/
@@ -44,6 +47,11 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "games"
+    values:
+      layout: "game"
   - scope:
       path: ""
       type: "things"

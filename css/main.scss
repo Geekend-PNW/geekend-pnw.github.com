@@ -5,21 +5,32 @@
 
 
 
+// UVG-inspired palette
+$uvg-bg-deep:      #12081f;
+$uvg-bg-mid:       #1e0f35;
+$uvg-purple:       #9b30ff;
+$uvg-pink:         #ff2d95;
+$uvg-cyan:         #00f0ff;
+$uvg-yellow:       #e8ff00;
+$uvg-violet:       #4a1a7a;
+
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Exo 2", "Segoe UI", sans-serif;
+$display-font-family: "Orbitron", "Exo 2", sans-serif;
+$nav-font-family: "Rajdhani", "Exo 2", sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #e8e0f5;
+$background-color: $uvg-bg-deep;
+$brand-color:      $uvg-cyan;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #a89bc4;
+$grey-color-light: rgba($uvg-purple, 0.35);
+$grey-color-dark:  $uvg-cyan;
 
 // Width of the content area
 $content-width:    800px;

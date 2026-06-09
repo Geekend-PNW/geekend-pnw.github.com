@@ -8,6 +8,23 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% if page.gm %}
+    <p><strong>GM:</strong> {{ page.gm | join: ', ' }}</p>
+    {% endif %}
+
+    {% if page.events %}
+    <p><strong>Played at:</strong>
+      {% for event_id in page.events %}
+        {% assign event = site.events | where: "event_id", event_id | first %}
+        {% if event %}
+          <a href="{{ event.url | relative_url }}">{{ event.title }}</a>{% unless forloop.last %}, {% endunless %}
+        {% else %}
+          {{ event_id }}{% unless forloop.last %}, {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </p>
+    {% endif %}
+
     {{ content }}
   </article>
 

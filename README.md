@@ -42,6 +42,8 @@ event_id: <year>-<month>
 
 Build out the page; use other events to understand how things get put together.
 
-The games, participants, and schedules sections should come from `include` files, which in turn draw from the `/_data` directory. To edit these sections, add the include command `{% include game-list.md %}` and then go to `/_data` and edit the associated data file.
+The games, participants, and schedules sections should come from `include` files. Games live in `/_games` (one file per game, with an `events` list tying them to an event). Participants are in `/_data/players.yml`. Schedules are CSV files in `/_data/schedules/`.
+
+To edit these sections, add the include command `{% include game-list.md %}` on event pages, then edit the associated source files.
 
 The `event_id` in the frontmatter of an event page is the key for linking players, games, and schedules to an event.
