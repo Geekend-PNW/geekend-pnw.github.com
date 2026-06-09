@@ -17,7 +17,12 @@ plugins:
 whitelist:
   - jekyll-redirect-from
 
-exclude: ['README', 'CNAME', 'Gemfile', 'Gemfile.lock']
+exclude: ['README', 'CNAME', 'Gemfile', 'Gemfile.lock', 'vendor', '.direnv', 'node_modules', '.netlify', 'flake.nix', 'flake.lock']
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  encoding: utf-8
 
 collections:
   events:
