@@ -27,6 +27,10 @@ bundle exec jekyll serve
 
 **Stack:** Ruby 3.3.10 (via nixpkgs; see `.ruby-version`), github-pages 232, Jekyll 3.10.0.
 
+## Netlify deploys
+
+Netlify reads `.ruby-version` to select the Ruby runtime for builds. Keep that file in sync with local development (currently **3.3.10**). Build settings live in `netlify.toml` — `bundle exec jekyll build` publishing `_site`.
+
 ## Editing pages
 
 You can also update pages using the built-in text editing functions in GitHub.
