@@ -2,24 +2,35 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 3px solid $uvg-pink;
+    border-bottom: 1px solid rgba($uvg-purple, 0.5);
     min-height: 56px;
+    background: linear-gradient(180deg, rgba($uvg-bg-mid, 0.95) 0%, rgba($uvg-bg-deep, 0.85) 100%);
+    box-shadow: 0 0 24px rgba($uvg-purple, 0.25), inset 0 -1px 0 rgba($uvg-cyan, 0.2);
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
+    font-family: $display-font-family;
+    font-size: 22px;
+    font-weight: 700;
     line-height: 56px;
-    letter-spacing: -1px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
     margin-bottom: 0;
     float: left;
+    text-shadow: -1px 0 rgba($uvg-pink, 0.7), 1px 0 rgba($uvg-cyan, 0.7);
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $uvg-yellow;
+    }
+
+    &:hover {
+        color: $uvg-cyan;
+        text-shadow: 0 0 12px rgba($uvg-cyan, 0.8);
     }
 }
 
@@ -32,6 +43,11 @@
     }
 
     .page-link {
+        font-family: $nav-font-family;
+        font-size: 1.05rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
         color: $text-color;
         line-height: $base-line-height;
 
@@ -39,14 +55,19 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+        &:hover {
+            color: $uvg-cyan;
+        }
     }
 
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        background-color: rgba($uvg-bg-mid, 0.98);
+        border: 1px solid rgba($uvg-purple, 0.5);
+        box-shadow: 0 0 16px rgba($uvg-purple, 0.3);
         border-radius: 5px;
         text-align: right;
 
@@ -92,8 +113,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid rgba($uvg-purple, 0.4);
     padding: $spacing-unit 0;
+    background: linear-gradient(0deg, rgba($uvg-bg-mid, 0.6) 0%, transparent 100%);
 }
 
 .footer-heading {
@@ -163,6 +185,17 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
+    > .wrapper {
+        background: rgba($uvg-bg-mid, 0.55);
+        border: 1px solid rgba($uvg-purple, 0.35);
+        border-radius: 2px;
+        box-shadow:
+            0 0 30px rgba($uvg-purple, 0.15),
+            inset 0 0 60px rgba($uvg-violet, 0.1);
+        padding-top: $spacing-unit;
+        padding-bottom: $spacing-unit;
+    }
 }
 
 .page-heading {
@@ -199,8 +232,11 @@
 
 .post-title {
     font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+    letter-spacing: 0.06em;
+    line-height: 1.1;
+    text-shadow: -2px 0 rgba($uvg-pink, 0.5), 2px 0 rgba($uvg-cyan, 0.5);
+    border-bottom: 2px solid rgba($uvg-pink, 0.4);
+    padding-bottom: $spacing-unit / 3;
 
     @include media-query($on-laptop) {
         font-size: 36px;

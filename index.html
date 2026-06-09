@@ -4,8 +4,40 @@ permalink: /
 ---
 
 <div class="home">
+  <div class="home-hero">
+    <img
+      class="home-hero-art"
+      src="{{ '/assets/images/geekend-hero.png' | prepend: site.baseurl }}"
+      alt="Ultraviolet grasslands under a neon sky"
+      width="1536"
+      height="1024"
+    >
+    <div class="home-hero-overlay"></div>
+    <div class="home-hero-content">
+      <img
+        class="home-emblem"
+        src="{{ '/assets/images/geekend-emblem.png' | prepend: site.baseurl }}"
+        alt=""
+        width="512"
+        height="512"
+      >
+      <h1 class="homepage-title">{{ site.title }}</h1>
+      <h2 class="homepage-title">roll for initiative on the neon road</h2>
+    </div>
+  </div>
 
-<h1 class="homepage-title">{{ site.title }}</h1>
-<h2 class="homepage-title">some geeky comment here</h2>
-
+  {% assign latest_event = site.events | sort: 'event_id' | last %}
+  <section class="featured-event">
+    <p class="featured-event-label">Next Geekend</p>
+    <h2 class="featured-event-title">
+      <a href="{{ latest_event.url | relative_url }}">{{ latest_event.title }}</a>
+    </h2>
+    {% if latest_event.event_date %}
+    <p class="featured-event-date">{{ latest_event.event_date }}</p>
+    {% endif %}
+    {% if latest_event.summary %}
+    <p class="featured-event-summary">{{ latest_event.summary }}</p>
+    {% endif %}
+    <a class="featured-event-cta" href="{{ latest_event.url | relative_url }}">View event details →</a>
+  </section>
 </div>

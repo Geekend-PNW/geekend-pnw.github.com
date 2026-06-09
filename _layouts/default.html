@@ -7,7 +7,7 @@
 
     {% include header.html %}
 
-    <div class="page-content">
+    <div class="page-content{% if page.url == '/' or page.url == '/index.html' %} page-content--home{% endif %}">
       <div class="wrapper">
         {{ content }}
       </div>

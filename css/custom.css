@@ -1,42 +1,323 @@
-.homepage-title
-{
-    text-align: center;
+/* UVG theme — decorative accents & page-specific overrides */
+
+:root {
+  --uvg-bg-deep: #12081f;
+  --uvg-bg-mid: #1e0f35;
+  --uvg-purple: #9b30ff;
+  --uvg-pink: #ff2d95;
+  --uvg-cyan: #00f0ff;
+  --uvg-yellow: #e8ff00;
+  --uvg-violet: #4a1a7a;
+  --uvg-text: #e8e0f5;
+  --uvg-text-dim: #a89bc4;
+}
+
+/* Homepage — full-bleed hero outside content panel */
+.page-content--home {
+  padding: 0;
+}
+
+.page-content--home > .wrapper {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+/* Homepage hero */
+.home {
+  text-align: center;
+}
+
+.home-hero {
+  position: relative;
+  overflow: hidden;
+  min-height: clamp(320px, 55vh, 560px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px solid rgba(155, 48, 255, 0.5);
+  box-shadow: 0 8px 32px rgba(155, 48, 255, 0.25);
+}
+
+.home-hero-art {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 40%;
+}
+
+.home-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      180deg,
+      rgba(18, 8, 31, 0.55) 0%,
+      rgba(18, 8, 31, 0.35) 45%,
+      rgba(18, 8, 31, 0.85) 100%
+    ),
+    radial-gradient(
+      ellipse at center,
+      rgba(155, 48, 255, 0.15) 0%,
+      transparent 70%
+    );
+}
+
+.home-hero-content {
+  position: relative;
+  z-index: 1;
+  padding: 2.5rem 1.5rem 3rem;
+  max-width: 900px;
+}
+
+.featured-event {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 3.5rem;
+  text-align: center;
+}
+
+.featured-event-label {
+  font-family: "Rajdhani", "Exo 2", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--uvg-pink);
+  margin-bottom: 0.75rem;
+}
+
+.featured-event-title {
+  font-family: "Orbitron", "Exo 2", sans-serif;
+  font-size: clamp(1.5rem, 5vw, 2.25rem);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+}
+
+.featured-event-title a {
+  color: var(--uvg-yellow);
+  text-decoration: none;
+  text-shadow:
+    -2px 0 var(--uvg-pink),
+    2px 0 var(--uvg-cyan),
+    0 0 20px rgba(155, 48, 255, 0.5);
+}
+
+.featured-event-title a:hover {
+  color: var(--uvg-cyan);
+}
+
+.featured-event-date {
+  font-family: "Rajdhani", "Exo 2", sans-serif;
+  font-size: 1.35rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--uvg-cyan);
+  margin-bottom: 1rem;
+}
+
+.featured-event-summary {
+  color: var(--uvg-text-dim);
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.featured-event-cta {
+  display: inline-block;
+  font-family: "Rajdhani", "Exo 2", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--uvg-bg-deep);
+  background: linear-gradient(90deg, var(--uvg-pink), var(--uvg-purple), var(--uvg-cyan));
+  padding: 0.65rem 1.5rem;
+  border-radius: 2px;
+  text-decoration: none;
+  box-shadow: 0 0 16px rgba(155, 48, 255, 0.4);
+}
+
+.featured-event-cta:hover {
+  color: var(--uvg-yellow);
+  box-shadow: 0 0 24px rgba(0, 240, 255, 0.5);
+}
+
+.home-emblem {
+  display: block;
+  width: clamp(96px, 18vw, 160px);
+  height: auto;
+  margin: 0 auto 1.25rem;
+  filter: drop-shadow(0 0 18px rgba(0, 240, 255, 0.45))
+    drop-shadow(0 0 28px rgba(155, 48, 255, 0.35));
+}
+
+.site-emblem {
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+  filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.4));
+}
+
+.site-title {
+  display: inline-flex;
+  align-items: center;
+}
+
+.homepage-title {
+  text-align: center;
 }
 
 h1.homepage-title {
-    font-size: 600%;
+  font-family: "Orbitron", "Exo 2", sans-serif;
+  font-size: clamp(2.5rem, 10vw, 5rem);
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--uvg-yellow);
+  text-shadow:
+    -3px 0 var(--uvg-pink),
+    3px 0 var(--uvg-cyan),
+    0 0 30px rgba(155, 48, 255, 0.6);
+  margin-bottom: 0.5rem;
 }
 
 h2.homepage-title {
-    font-size: 250%;
+  font-family: "Rajdhani", "Exo 2", sans-serif;
+  font-size: clamp(1.25rem, 4vw, 2rem);
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--uvg-cyan);
+  text-shadow: 0 0 12px rgba(0, 240, 255, 0.4);
+}
+
+/* Decorative zine-style rule under homepage */
+.home::after {
+  content: "";
+  display: block;
+  width: min(280px, 60%);
+  height: 3px;
+  margin: 2rem auto 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--uvg-pink),
+    var(--uvg-purple),
+    var(--uvg-cyan),
+    transparent
+  );
+  box-shadow: 0 0 12px var(--uvg-purple);
 }
 
 h2 {
-    font-size: 200%
+  font-size: 200%;
+  color: var(--uvg-cyan);
+  text-shadow: -1px 0 rgba(255, 45, 149, 0.4), 1px 0 rgba(0, 240, 255, 0.4);
 }
 
+h3 {
+  color: var(--uvg-pink);
+  letter-spacing: 0.06em;
+}
+
+/* Nav */
 .trigger a.page-link {
-    font-size: 120%
-}
-
-tbody tr:nth-child(odd) { background: #ccc; }
-
-table { margin-bottom: 5%;}
-
-.cell {
-    padding-left: 10px;
-    padding-right: 10px;
-
+  font-size: 120%;
 }
 
 .page-link.active-link {
-    color: #999;
-    text-decoration: none;
+  color: var(--uvg-yellow);
+  text-shadow: 0 0 10px rgba(232, 255, 0, 0.5);
+  text-decoration: none;
+  border-bottom: 2px solid var(--uvg-pink);
+  padding-bottom: 2px;
 }
 
-.float-left
-{
-    clear: right;
-    display: block;
-    float: left;
+.site-nav .menu-icon {
+  color: var(--uvg-cyan);
+}
+
+/* Tables (schedules, game lists) */
+table {
+  margin-bottom: 5%;
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid rgba(155, 48, 255, 0.4);
+  box-shadow: 0 0 16px rgba(155, 48, 255, 0.15);
+}
+
+thead th,
+tbody th {
+  font-family: "Rajdhani", "Exo 2", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: rgba(74, 26, 122, 0.7);
+  color: var(--uvg-yellow);
+  padding: 0.5rem 0.75rem;
+  border-bottom: 2px solid var(--uvg-pink);
+}
+
+tbody tr:nth-child(odd) {
+  background: rgba(30, 15, 53, 0.8);
+}
+
+tbody tr:nth-child(even) {
+  background: rgba(74, 26, 122, 0.25);
+}
+
+tbody tr:hover {
+  background: rgba(155, 48, 255, 0.2);
+}
+
+td,
+th {
+  padding: 0.4rem 0.75rem;
+  border: 1px solid rgba(155, 48, 255, 0.2);
+}
+
+.cell {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* Lists on event pages */
+.post-content ul li::marker {
+  color: var(--uvg-pink);
+}
+
+.post-content hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--uvg-purple),
+    var(--uvg-pink),
+    var(--uvg-cyan),
+    transparent
+  );
+  margin: 2rem 0;
+  box-shadow: 0 0 8px rgba(155, 48, 255, 0.4);
+}
+
+/* Selection highlight */
+::selection {
+  background: rgba(255, 45, 149, 0.4);
+  color: var(--uvg-yellow);
+}
+
+.float-left {
+  clear: right;
+  display: block;
+  float: left;
 }
